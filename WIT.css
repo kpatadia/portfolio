@@ -6,10 +6,6 @@
  .active {
     background-color: gray;
     color: white;}
-.black {
-overflow: hidden;
-display: block;
-}
 
 .accordion {
     background-color: #000000;
